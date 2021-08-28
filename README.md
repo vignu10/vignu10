@@ -12,5 +12,5 @@
 
 [![vignu10's github stats](https://github-readme-stats.vercel.app/api?username=vignu10)](https://github.com/vignu10/github-readme-stats)
 
-'vignu10/github-readme-strea-stats'.
+'vignu10/github-readme-streak-stats'.
 
