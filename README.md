@@ -12,7 +12,8 @@
 ![vignu10's GitHub stats](https://github-readme-stats.vercel.app/api?username=vignu10&show_icons=true&theme=midnight-purple)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vignu10)](https://github.com/vignu10/github-readme-stats)
+![vignu10's GitHub stats](https://github-readme-stats.vercel.app/api?username=vignu10&show_icons=true&theme=tokyonight)
+
 
 
 
