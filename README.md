@@ -16,4 +16,4 @@
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vignu10&count_private=true&theme=vue)
 
-[![Vignu's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=vignu10-code&theme=tokyonight)](https://git.io/praveenscience)
+[![Vignu's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=vignu10-code&%theme=tokyonight)](https://git.io/praveenscience)
