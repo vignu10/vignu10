@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Discuss chat app
-- 🌱 I’m currently learning Kotlin
+- 🌱 I’m currently learning React Js
 - 👯 I’m looking to collaborate on Web Development
 - 🤔 I’m looking for help with ReactJs
 - 💬 Ask me about Java and HTML
