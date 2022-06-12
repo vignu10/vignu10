@@ -1,13 +1,14 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Discuss chat app
-- 🌱 I’m currently learning React Js
+- 🌱 I’m currently learning Kotlin
 - 👯 I’m looking to collaborate on Web Development
 - 🤔 I’m looking for help with ReactJs
 - 💬 Ask me about Java and HTML
 - 📫 How to reach me: vignuday2501@gmail.com
 - 😄 Pronouns: He/His
-- ⚡ Positive Quote:“Self expression is a vital part of understanding life, and enjoying it to the full.”
+- ⚡ Positive Quote:
+              “Self expression is a vital part of understanding life, and enjoying it to the full.”
 - 
 ![vignu10's GitHub stats](https://github-readme-stats.vercel.app/api?username=vignu10&show_icons=true&theme=midnight-purple)
 
