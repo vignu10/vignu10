@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Discuss chat app
-- 🌱 I’m currently learning ReactJS
+- 🔭 I’m currently working on High Efficiency Data Models
+- 🌱 I’m currently learning Tensorflow 
 - 👯 I’m looking to collaborate on Web Development
-- 🤔 I’m looking for help with ReactJs
-- 💬 Ask me about Java and HTML
+- 🤔 I’m looking for help with PyTorch
+- 💬 Ask me about JS and Frameworks , API'S
 - 📫 How to reach me: vignuday2501@gmail.com
 - 😄 Pronouns: He/His
 - ⚡ Positive Quote:
