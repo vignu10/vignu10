@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Vue JS
+- 🔭 I’m currently working on React JS
 - 🌱 I’m currently learning Tensorflow 
 - 👯 I’m looking to collaborate on Web Development
 - 🤔 I’m looking for help with PyTorch
