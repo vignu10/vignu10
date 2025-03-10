@@ -10,7 +10,7 @@
 - ⚡ Positive Quote:
               “Self expression is a vital part of understanding life, and enjoying it to the full.”
 
-![vignu10's GitHub stats](https://github-readme-stats.vercel.app/api?username=vignu10&show_icons=true&theme=midnight-purple)
+![vignu10's GitHub stats](https://github-readme-stats.vercel.app/api?username=vignu10&show_icons=true&theme=radical)
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
 
 
